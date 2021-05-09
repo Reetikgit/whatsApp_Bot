@@ -1,0 +1,12 @@
+2021/05/09-12:07:04.716 163d Reusing MANIFEST /home/reetik/Desktop/PythonSoftware/firebaseServer/FirebaseGui/User_Data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/09-12:07:04.716 163d Recovering log #11
+2021/05/09-12:07:04.755 163d Reusing old log /home/reetik/Desktop/PythonSoftware/firebaseServer/FirebaseGui/User_Data/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000011.log 
+2021/05/09-12:07:25.822 163d Level-0 table #16: started
+2021/05/09-12:07:25.844 163d Level-0 table #16: 1231854 bytes OK
+2021/05/09-12:07:25.846 163d Delete type=0 #11
+2021/05/09-12:07:27.500 163e Compacting 1@1 + 1@2 files
+2021/05/09-12:07:27.533 163e Generated table #17@1: 31481 keys, 1298975 bytes
+2021/05/09-12:07:27.533 163e Compacted 1@1 + 1@2 files => 1298975 bytes
+2021/05/09-12:07:27.534 163e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/09-12:07:27.535 163e Delete type=2 #16
+2021/05/09-12:07:27.535 163e Delete type=2 #13
